@@ -2,7 +2,9 @@
 
 Please follow [official Steam guide](https://support.steampowered.com/kb_article.php?ref=6239-DZCB-8600) in order to disable DVR in Windows 10. 
 
-If for whatever reason it doesn't work for you, or DVR is being re-enabled on Windows startup (that was my case!) you can use this super simple app which allow you to disable DVR on windows 10 startup.
+Unfortunately none of methods worked pernamently for me (together with uninstalling xbox app in windows store), I had to edit registry every restart which was annoying.
+
+If for whatever reason it also doesn't work for you, or DVR is being re-enabled on Windows startup you can use this super simple app which allow you to disable DVR on windows 10 startup.
 
 Application comes with handy installer, [DOWNLOAD HERE](https://github.com/exqstudio/XboxDvrDisabler/raw/master/dist/xboxdvrdisabler_setup.exe)
 
