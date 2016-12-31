@@ -11,3 +11,7 @@ If you want to compile it by yourself remember to add task to Task Scheduler (ru
 ![ScreenShot](screenshot.png)
 
 ![ScreenShot2](screenshot2.png)
+
+**Why don't you just use .reg file?**
+
+I did for long time. Then I added .reg file to startup and it asked me for admin permissions every time. Then I created few lines Lazaurs application and added scheduled task manually. And today I created app with handy installer which is doing everything for you, hassle free.
